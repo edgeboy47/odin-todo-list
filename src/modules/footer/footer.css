@@ -1,0 +1,14 @@
+footer {
+  grid-row: 3 / 4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 1.125rem;
+  background-color: #1f1f1f;
+  color: #e1e1e1;
+}
+
+footer img {
+  filter: invert(1);
+}
