@@ -1,0 +1,32 @@
+.card {
+  display: flex;
+  border-bottom: 1px solid #111;
+  color: white;
+  padding: 0.5rem;
+  align-items: center;
+}
+.card * {
+  color: #111;
+}
+
+.checkbox {
+  margin-right: 1rem;
+  width: 1.5rem;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.body {
+
+}
+
+.description {
+
+}
+
+.date {
+  margin-left: auto;
+}
