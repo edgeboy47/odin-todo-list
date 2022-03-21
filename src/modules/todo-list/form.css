@@ -1,0 +1,33 @@
+.addTaskButton {
+  display: flex;
+  padding: 0.5rem;
+  align-items: center;
+  gap: 1rem;
+  font-size: 1.25rem;
+  font-weight: 500;
+  border-bottom: 1px solid #111;
+}
+
+.addTaskButton:hover {
+  cursor: pointer;
+}
+
+i {
+  font-size: 1.25rem;
+}
+
+form {
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+}
+
+button {
+  border: none;
+  padding: 0 0.5rem;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 80rem;
+}
